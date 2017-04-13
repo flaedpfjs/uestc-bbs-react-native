@@ -51,7 +51,7 @@ npm run eslint
   - [x] View sub forums
 - [ ] Topic
   - [x] View latest topics
-  - [ ] View hot topics
+  - [x] View hot topics
   - [x] View topics in each forum
   - [x] View topic detail and comments
   - [x] Publish topic
